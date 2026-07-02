@@ -1,8 +1,8 @@
 class Starsync < Formula
   desc "Local-first GitHub starred repository knowledge sync"
   homepage "https://github.com/nickfan/starsync"
-  url "https://github.com/nickfan/starsync/releases/download/v0.1.1/starsync-v0.1.1-vendored-source.tar.gz"
-  sha256 "d4aecb03f3d239882d07a4748ee44e54d15d41749651782dd6746bec66398180"
+  url "https://github.com/nickfan/starsync/releases/download/v0.1.2/starsync-v0.1.2-vendored-source.tar.gz"
+  sha256 "51b5742d395977d490eb99744a9a149032bfb0ec40b8876d1568a37feac03335"
   license "Apache-2.0"
 
   depends_on "rust" => :build
